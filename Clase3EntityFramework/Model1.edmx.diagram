@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="59c03e4de0654742a8b37437dd9859a7" Name="Diagram1">
+        <EntityTypeShape EntityType="TiendaWebModel.Categories" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaWebModel.Customers" Width="1.5" PointX="0.5" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaWebModel.OrderDetails" Width="1.5" PointX="4.75" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaWebModel.Orders" Width="1.5" PointX="2.875" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaWebModel.Products" Width="1.5" PointX="2.75" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="TiendaWebModel.FK__Orders__Customer__173876EA" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaWebModel.FK__OrderDeta__Order__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaWebModel.FK__OrderDeta__Produ__21B6055D" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaWebModel.ProductsCategoriesRelation" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

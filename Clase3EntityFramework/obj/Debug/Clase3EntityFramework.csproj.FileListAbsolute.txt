@@ -1,0 +1,29 @@
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.pdb
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.exe
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.pdb
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.pdb
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\EntityFramework.dll
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\EntityFramework.xml
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.csprojResolveAssemblyReference.cache
+C:\C\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config
+C:\C\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.exe
+C:\C\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.pdb
+D:\C\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config
+D:\C\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.exe
+D:\C\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.pdb
+D:\C\CLASES EN DEVELOPER  C#\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config
+D:\C\CLASES EN DEVELOPER  C#\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.exe
+D:\C\CLASES EN DEVELOPER  C#\CLASE 2 C#\ClaseDeEntityFramework-master\ClaseDeEntityFramework-master\Clase3EntityFramework\obj\Debug\Clase3EntityFramework.pdb
